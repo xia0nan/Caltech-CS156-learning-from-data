@@ -1,5 +1,5 @@
-# learning-from-data
-Learning from data by [Prof. Yaser S. Abu-Mostafa](https://work.caltech.edu/) - California Institute of Technology
+# Learning From Data by California Institute of Technology
+Learning from data by [Prof. Yaser S. Abu-Mostafa](https://work.caltech.edu/)
 
 
 [Course Website](https://work.caltech.edu/telecourse.html)
